@@ -94,7 +94,7 @@ Analyzes percentage growth of female athletes over Olympic years.
 
 ## Repository Files
 
-* `Olympics_athlete_analysis.sql` – SQL queries for cleaning and analysis
+* Olympics_athlete_analysis.sql – SQL queries for cleaning and analysis
 * Olympic athlete dataset
 
 ---
